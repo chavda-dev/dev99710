@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Chavda</h1>
-<h3 align="center">AI & Robotics Graduate | React • Python • Machine Learning</h3>
+<h3 align="center">AI & Robotics Graduate | React, Python, ML | Open to AI & Data roles</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Robotics+Graduate+from+LJ+Institute;Building+real+projects+in+ML+%26+Full-Stack;React+%7C+Python+%7C+TensorFlow.js+%7C+Data+Analysis;Open+to+AI%2C+Data+%26+Software+roles" alt="Typing SVG" />
@@ -87,8 +87,8 @@ A full-featured online shopping experience built with React and Firebase.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev99710&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev99710&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev99710&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev99710&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
