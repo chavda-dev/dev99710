@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dev Chavda</h1>
-<h3 align="center">Junior Developer | React • Python • Data Analysis</h3>
+<h3 align="center">AI & Robotics Graduate | React • Python • Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Learning+by+building+real+projects;Focused+on+clean+code+and+strong+fundamentals;React+%7C+Python+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Robotics+Graduate+from+LJ+Institute;Building+real+projects+in+ML+%26+Full-Stack;React+%7C+Python+%7C+TensorFlow.js+%7C+Data+Analysis;Open+to+AI%2C+Data+%26+Software+roles" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Robotics and Artificial Intelligence graduate** who enjoys **building practical software projects** and strengthening core computer science fundamentals. I focus on writing **clean, readable code** and improving projects iteratively rather than rushing through tutorials.
+I'm a **Robotics and Artificial Intelligence graduate** who builds practical projects at the intersection of **AI and full-stack web development**. I completed a **Data Analyst internship at BrainyBeam Technologies** and enjoy turning ideas into working applications.
 
-- 🎓 Graduate in **Robotics and Artificial Intelligence**
-- 💻 Working primarily with **React, JavaScript, and Python**
-- 📊 Exploring **Data Analysis and Machine Learning basics**
-- 🧠 Strong believer in fundamentals, clarity, and consistency
-- 📈 Actively improving project structure, documentation, and code quality
+- 🎓 B.E. in **Robotics and Artificial Intelligence** — L.J. Institute, Ahmedabad
+- 🤖 Interested in **ML, Computer Vision, and AI-powered apps**
+- 📊 Experienced with **Data Analysis** (Pandas, NumPy, SQL)
+- 💻 Building full-stack projects with **React, Firebase, and Python**
+- 📍 Based in **Ahmedabad, Gujarat, India**
 
 ---
 
@@ -26,9 +26,15 @@ I am a **Robotics and Artificial Intelligence graduate** who enjoys **building p
   <img src="https://skillicons.dev/icons?i=js,python,cpp" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend & Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,firebase" />
+</p>
+
+### 🤖 AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  &nbsp;<b>Pandas &nbsp;|&nbsp; NumPy &nbsp;|&nbsp; SQL &nbsp;|&nbsp; MediaPipe &nbsp;|&nbsp; Scikit-learn</b>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -38,36 +44,32 @@ I am a **Robotics and Artificial Intelligence graduate** who enjoys **building p
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Projects
 
-### 🔹 Algorithm Simulations
-Visual implementations of core algorithms aimed at improving conceptual understanding.
+### 🤖 Hand Distance Measurement — Computer Vision
+Real-time hand tracking that estimates distance using a webcam feed.
+- Built with **TensorFlow.js** and **MediaPipe** hand pose detection
+- Runs fully in-browser — no backend required
+- Demonstrates applied ML in a real-world use case
 
-- Built using **JavaScript and React**
-- Focus on visualization and logical clarity
-- Designed to bridge theory with practical implementation
-
-🔗 Repository: https://github.com/dev99710/Algorithm-Simulations
-
----
-
-### 🔹 CookBook Application
-A frontend application built to practice component-based architecture.
-
-- React components and state management
-- Emphasis on reusable components
-- Clean and readable UI logic
-
-🔗 Repository: https://github.com/dev99710/CookBook
+🔗 Repository: https://github.com/dev99710/hand-distance-measurement
 
 ---
 
-### 🔹 KharidiKaro
-A frontend-focused e-commerce style web application designed to simulate an online shopping experience.
+### 📊 Algorithm Simulation Tool
+Visual, interactive implementations of core CS algorithms.
+- Built with **JavaScript and React**
+- Bridges the gap between theory and hands-on understanding
+- Clean UI focused on educational clarity
 
-- Product listing interface with clean UI
-- Component-based architecture using React
-- Focus on usability and frontend fundamentals
+🔗 Repository: https://github.com/dev99710/AlgoSimulation
+
+---
+
+### 🛒 KharidiKaro — E-Commerce App
+A full-featured online shopping experience built with React and Firebase.
+- **Firebase** backend for auth and real-time data
+- Component-based architecture with clean state management
 - Live deployed application
 
 🔗 Repository: https://github.com/dev99710/KharidiKaro
@@ -76,10 +78,18 @@ A frontend-focused e-commerce style web application designed to simulate an onli
 
 ## 🎯 Currently Working On
 
-- Improving documentation and code clarity across projects
-- Strengthening data structures and problem-solving skills
-- Building more complete, end-to-end applications
-- Preparing for entry-level software developer roles
+- 🧪 **Resume Roaster** — AI-powered web app (React + Claude API)
+- 📚 Strengthening **DSA and ML fundamentals** for technical assessments
+- 🔍 Actively applying to **AI, Data, and Software Developer roles**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev99710&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev99710&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
@@ -96,4 +106,4 @@ A frontend-focused e-commerce style web application designed to simulate an onli
 
 ---
 
-⭐ *Feedback on my projects is always welcome.*
+⭐ *Always open to feedback, collaboration, and new opportunities.*
